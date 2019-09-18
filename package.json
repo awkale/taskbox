@@ -44,5 +44,10 @@
     "redux": "^4.0.4",
     "require-context.macro": "^1.2.1",
     "storybook-chromatic": "^2.2.2"
+  },
+  "story2sketch": {
+    "stories": "all",
+    "input": "docs/iframe.html",
+    "output": "dist/great-ui.asketch.json"
   }
 }
